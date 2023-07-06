@@ -1,3 +1,7 @@
+## Deliverables
+- For objective 1 & 2, [Dashboard](https://github.com/Emmalamlfz/New-Product-Launch-project-for-Pepsico/tree/main/Dashboard)
+- For objective 3, [ML models]
+
 ## Objective 1. Indentify Potato Chips Market Landscape
 - What is the trend of Chinese Potato Chips Market?
   - Chinese FMCG Market
