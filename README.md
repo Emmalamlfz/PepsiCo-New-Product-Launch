@@ -6,9 +6,13 @@ Technical solution and roadmap can be seen in this link: [Final Report](https://
 
 ## Table of Content:
 [1. Business Problem Statement](#item-one)
+
 [2. Business & Technical Objectives](#item-two)
+
 [3. Data Set](#item-three)
+
 [4. Project Design](#item-four)
+
 [5. Final Report](#item-five)
 
 <a id="item-one"></a>
