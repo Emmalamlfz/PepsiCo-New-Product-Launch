@@ -2,7 +2,7 @@
 This is an individual Capstone project guided by my mentors in Kantar Worldpanel,Shanghai and the National University of Singapore.
 In this project, my goal was to make marketing insights & new product launch suggestions for PepsiCo
 
-Technical solution and roadmap can be seen in this link: [Final Report](https://github.com/Emmalamlfz/New-Product-Launch-project-for-Pepsico/blob/main/LinFangzhou_KWP.pdf)
+Detailed Technical solution and roadmap can be seen in this link: [Final Report](https://github.com/Emmalamlfz/New-Product-Launch-project-for-Pepsico/blob/main/LinFangzhou_KWP.pdf)
 
 ## Table of Content:
 [1. Business Problem Statement](#item-one)
@@ -17,6 +17,7 @@ Technical solution and roadmap can be seen in this link: [Final Report](https://
 
 <a id="item-one"></a>
 ## 1. Business Problem Statement
+![image](https://github.com/Emmalamlfz/PepsiCo-New-Product-Lauch/assets/110097027/053e94f6-7e19-465e-bd4e-f6e77e025154)
 
 
 
