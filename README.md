@@ -36,5 +36,7 @@ Potato Chips account for the major sales of LAYS, however, the market showed sig
 <a id="item-four"></a>
 ## 4. Executive Summary
 ![image](https://github.com/Emmalamlfz/PepsiCo-New-Product-Lauch/assets/110097027/2f12dde5-fa21-40ff-9cdd-af269a34d738)
+![image](https://github.com/Emmalamlfz/PepsiCo-New-Product-Lauch/assets/110097027/ffe5a2f8-85b9-45cf-92ef-2318fe941aa4)
+
 
 
