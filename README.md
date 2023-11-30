@@ -17,4 +17,4 @@ Capstone project with Kantar Worldpanel&amp;NUS--New Product Launch project for 
 
 
 ## Final Report & Presentation
-LinFangzhou_KWP.pdf
+[LinFangzhou_KWP.pdf](https://github.com/Emmalamlfz/New-Product-Launch-project-for-Pepsico/blob/main/LinFangzhou_KWP.pdf)https://github.com/Emmalamlfz/New-Product-Launch-project-for-Pepsico/blob/main/LinFangzhou_KWP.pdf
