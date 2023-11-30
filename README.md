@@ -1,9 +1,18 @@
 # New-Product-Launch-project-for-Pepsico
-This is an individual Capstone project guided by my mentors in Kantar Worldpanel and the National University of Singapore.
+This is an individual Capstone project guided by my mentors in Kantar Worldpanel,Shanghai and the National University of Singapore.
 
 Technical solution and roadmap can be seen in this link: [Final Report](https://github.com/Emmalamlfz/New-Product-Launch-project-for-Pepsico/blob/main/LinFangzhou_KWP.pdf)
 
-## Objective 1. Indentify Potato Chips Market Landscape
+## Table of Content:
+
+
+
+
+
+
+
+
+### Objective 1. Indentify Potato Chips Market Landscape
 - What is the trend of Chinese Potato Chips Market?
 - What is the Competitive Landscape? 
 
