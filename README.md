@@ -16,6 +16,5 @@ Capstone project with Kantar Worldpanel&amp;NUS--New Product Launch project for 
 - Predict whether new product launch will meet annual target?
 
 
-
-## Reference
-[MARKETING ANALYTICS A PRACTITIONER'S GUIDE TO MARKETING ANALYTICS AND RESEARCH METHODS]
+## Final Report & Presentation
+LinFangzhou_KWP.pdf
