@@ -1,6 +1,8 @@
 # New-Product-Launch-project-for-Pepsico
 Capstone project with Kantar Worldpanel&amp;NUS--New Product Launch project for Pepsico
 
+Technical solution and roadmap can be seen in this link: 
+
 ## Objective 1. Indentify Potato Chips Market Landscape
 - What is the trend of Chinese Potato Chips Market?
 - What is the Competitive Landscape? 
