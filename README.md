@@ -1,5 +1,5 @@
 <p align="center">
-![image](https://github.com/user-attachments/assets/a1c3786e-31db-4022-8abc-850dac0ef4fc)
+[image](https://github.com/user-attachments/assets/a1c3786e-31db-4022-8abc-850dac0ef4fc)
 </p>
 
 # New-Product-Launch-project-for-Pepsico
