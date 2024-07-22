@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a1c3786e-31db-4022-8abc-850dac0ef4fc)
+
 # New-Product-Launch-project-for-Pepsico
 This is an individual Capstone project guided by my mentors in Kantar Worldpanel,Shanghai and the National University of Singapore.
 In this project, my goal was to make marketing insights & new product launch suggestions for PepsiCo
